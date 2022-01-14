@@ -1,0 +1,1259 @@
+Organisation,Location,Date,Rocket_Status,Price,Mission_Status
+Virgin Orbit,"Cosmic Girl, Mojave Air and Space Port, California, USA","Thu Jan 13, 2022 22:52 UTC",Active,12.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Jan 13, 2022 15:25 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jan 06, 2022 21:49 UTC",Active,50.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Thu Dec 30, 2021 03:30 UTC",Active,0,Failure
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Dec 29, 2021 16:43 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 29, 2021 11:13 UTC",Active,29.75,Success
+VKS RF,"Site 35/1, Plesetsk Cosmodrome, Russia","Mon Dec 27, 2021 19:00 UTC",Active,100.0,Failure
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Dec 27, 2021 13:10 UTC",Active,25.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Dec 26, 2021 03:11 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Dec 25, 2021 12:20 UTC",Active,200.0,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Thu Dec 23, 2021 10:12 UTC",Active,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Dec 22, 2021 15:32 UTC",Active,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Dec 21, 2021 10:07 UTC",Active,50.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Dec 19, 2021 03:58 UTC",Active,50.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sat Dec 18, 2021 12:41 UTC",Active,50.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Wed Dec 15, 2021 02:00 UTC",Active,5.8,Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 13, 2021 16:09 UTC",Active,29.15,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Dec 13, 2021 12:07 UTC",Active,65.0,Partial Failure
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Sat Dec 11, 2021 15:00 UTC",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Dec 10, 2021 00:11 UTC",Active,64.68,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Dec 09, 2021 06:00 UTC",Active,50.0,Success
+Rocket Lab,"Māhia Peninsula, New Zealand","Thu Dec 09, 2021 00:02 UTC",Active,7.5,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Dec 08, 2021 07:38 UTC",Active,17.42,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue Dec 07, 2021 10:19 UTC",Active,153.0,Success
+Galactic Energy,"Site 95, Jiuquan Satellite Launch Center, China","Tue Dec 07, 2021 04:12 UTC",Active,4.9,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sun Dec 05, 2021 00:19 UTC",Active,30.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Dec 02, 2021 23:12 UTC",Active,50.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Nov 26, 2021 16:40 UTC",Active,29.15,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Nov 25, 2021 01:09 UTC",Active,25.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Wed Nov 24, 2021 23:41 UTC",Active,5.8,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Nov 24, 2021 13:06 UTC",Active,20.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Wed Nov 24, 2021 06:21 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Nov 22, 2021 23:45 UTC",Active,64.68,Success
+Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Nov 20, 2021 06:16 UTC",Active,2.5,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Nov 20, 2021 01:51 UTC",Active,64.68,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu Nov 18, 2021 01:38 UTC",Active,7.5,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Nov 16, 2021 09:27 UTC",Active,37.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Nov 13, 2021 12:19 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 11, 2021 02:03 UTC",Active,50.0,Success
+JAXA,"Mu Pad, Uchinoura Space Center, Japan","Tue Nov 09, 2021 00:55 UTC",Active,39.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Nov 06, 2021 03:00 UTC",Active,29.75,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Fri Nov 05, 2021 02:19 UTC",Active,19.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Nov 03, 2021 07:43 UTC",Active,30.8,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Oct 28, 2021 00:00 UTC",Active,17.42,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Wed Oct 27, 2021 06:19 UTC",Active,5.8,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Oct 26, 2021 02:19 UTC",Active,90.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sun Oct 24, 2021 02:10 UTC",Active,200.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 24, 2021 01:27 UTC",Active,29.15,Success
+KARI,"LC-1, Naro Space Center, South Korea","Thu Oct 21, 2021 08:00 UTC",Active,0,Failure
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Oct 16, 2021 09:34 UTC",Active,109.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Fri Oct 15, 2021 16:23 UTC",Active,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Oct 14, 2021 10:51 UTC",Active,29.75,Success
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Thu Oct 14, 2021 09:40 UTC",Active,25.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Oct 13, 2021 14:50 UTC",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Oct 05, 2021 08:55 UTC",Active,17.42,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Mon Sep 27, 2021 18:12 UTC",Active,109.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Sep 27, 2021 08:20 UTC",Active,29.15,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Mon Sep 27, 2021 06:19 UTC",Active,5.8,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Mon Sep 20, 2021 07:10 UTC",Active,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 16, 2021 00:02 UTC",Active,50.0,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Sep 14, 2021 18:07 UTC",Active,25.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Tue Sep 14, 2021 03:55 UTC",Active,50.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Sep 09, 2021 19:59 UTC",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Sep 09, 2021 11:50 UTC",Active,29.15,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Sep 07, 2021 03:01 UTC",Active,64.68,Success
+Firefly,"SLC-2W, Vandenberg SFB, California, USA","Fri Sep 03, 2021 01:59 UTC",Active,15.0,Failure
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Aug 29, 2021 07:14 UTC",Active,50.0,Success
+Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Aug 28, 2021 22:35 UTC",Active,2.5,Failure
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Thu Aug 26, 2021 14:31 UTC",Active,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Aug 24, 2021 15:41 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Aug 24, 2021 11:15 UTC",Active,30.8,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Aug 21, 2021 22:13 UTC",Active,25.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Aug 18, 2021 22:32 UTC",Active,64.68,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Aug 17, 2021 01:47 UTC",Active,37.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Aug 12, 2021 00:13 UTC",Active,47.0,Failure
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Tue Aug 10, 2021 22:01 UTC",Active,85.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Aug 05, 2021 16:30 UTC",Active,29.15,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Wed Aug 04, 2021 11:01 UTC",Active,19.0,Success
+i-Space,"Site 95, Jiuquan Satellite Launch Center, China","Tue Aug 03, 2021 07:39 UTC",Active,0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Jul 30, 2021 21:00 UTC",Active,200.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu Jul 29, 2021 06:00 UTC",Active,7.5,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Jul 29, 2021 04:01 UTC",Active,29.75,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Jul 21, 2021 14:58 UTC",Active,65.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Tue Jul 20, 2021 13:12 UTC",Active,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Jul 19, 2021 00:19 UTC",Active,30.8,Success
+Virgin Galactic,"VMS Eve, Spaceport America, New Mexico, USA","Sun Jul 11, 2021 15:25 UTC",Active,0,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Fri Jul 09, 2021 11:59 UTC",Active,19.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jul 06, 2021 15:53 UTC",Active,20.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Jul 04, 2021 23:28 UTC",Active,64.68,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Jul 03, 2021 02:51 UTC",Active,29.75,Success
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Thu Jul 01, 2021 12:48 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Jun 30, 2021 19:31 UTC",Active,50.0,Success
+Virgin Orbit,"Cosmic Girl, Mojave Air and Space Port, California, USA","Wed Jun 30, 2021 14:47 UTC",Active,12.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jun 29, 2021 23:27 UTC",Active,17.42,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 25, 2021 19:50 UTC",Active,20.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jun 18, 2021 06:30 UTC",Active,30.8,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Jun 17, 2021 16:09 UTC",Active,50.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Thu Jun 17, 2021 01:22 UTC",Active,0,Success
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Tue Jun 15, 2021 13:35 UTC",Active,40.0,Success
+Northrop,"Stargazer, Vandenberg SFB, California, USA","Sun Jun 13, 2021 08:11 UTC",Active,40.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jun 11, 2021 03:03 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Jun 06, 2021 04:26 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jun 03, 2021 17:29 UTC",Active,50.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Jun 02, 2021 16:17 UTC",Active,29.15,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Sat May 29, 2021 12:55 UTC",Active,0,Success
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Fri May 28, 2021 17:38 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed May 26, 2021 18:59 UTC",Active,50.0,Success
+Virgin Galactic,"VMS Eve, Spaceport America, New Mexico, USA","Sat May 22, 2021 15:26 UTC",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed May 19, 2021 04:03 UTC",Active,64.68,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue May 18, 2021 17:37 UTC",Active,123.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat May 15, 2021 22:56 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sat May 15, 2021 11:11 UTC",Active,7.5,Failure
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun May 09, 2021 06:42 UTC",Active,50.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu May 06, 2021 18:11 UTC",Active,30.8,Success
+SpaceX,"Suborbital Pad A, Starbase, Texas, USA","Wed May 05, 2021 22:25 UTC",Active,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue May 04, 2021 19:01 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Apr 30, 2021 07:27 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Apr 29, 2021 03:44 UTC",Active,50.0,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Thu Apr 29, 2021 03:23 UTC",Active,0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Thu Apr 29, 2021 01:50 UTC",Active,37.0,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Tue Apr 27, 2021 03:20 UTC",Active,19.0,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Mon Apr 26, 2021 20:47 UTC",Active,350.0,Success
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Sun Apr 25, 2021 22:14 UTC",Active,25.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 23, 2021 09:49 UTC",Active,50.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Apr 14, 2021 16:49 UTC",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Apr 09, 2021 07:42 UTC",Active,17.42,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Apr 08, 2021 23:01 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Apr 07, 2021 16:34 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Mar 30, 2021 22:45 UTC",Active,64.68,Success
+SpaceX,"Suborbital Pad B, Starbase, Texas, USA","Tue Mar 30, 2021 13:00 UTC",Active,0,Failure
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Thu Mar 25, 2021 02:47 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Mar 24, 2021 08:28 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Mar 22, 2021 22:30 UTC",Active,0,Success
+GK LS,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Mar 22, 2021 06:07 UTC",Active,23.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Mar 14, 2021 10:01 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Mar 13, 2021 02:19 UTC",Active,64.68,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Thu Mar 11, 2021 17:51 UTC",Active,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Mar 11, 2021 08:13 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 04, 2021 08:24 UTC",Active,50.0,Success
+SpaceX,"Suborbital Pad A, Starbase, Texas, USA","Wed Mar 03, 2021 23:14 UTC",Active,0,Partial Failure
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Feb 28, 2021 06:55 UTC",Active,25.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sun Feb 28, 2021 04:54 UTC",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Feb 24, 2021 02:22 UTC",Active,64.68,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Feb 20, 2021 17:36 UTC",Active,85.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Feb 16, 2021 03:59 UTC",Active,50.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Feb 15, 2021 04:45 UTC",Active,17.42,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Feb 04, 2021 15:36 UTC",Active,29.15,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Feb 04, 2021 06:19 UTC",Active,50.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Feb 02, 2021 20:45 UTC",Active,20.0,Success
+SpaceX,"Suborbital Pad B, Starbase, Texas, USA","Tue Feb 02, 2021 20:25 UTC",Active,0,Partial Failure
+ISA,"Launch Platform, Shahrud Missile Test Site, Iran","Mon Feb 01, 2021",Active,0,Success
+i-Space,"Site 95, Jiuquan Satellite Launch Center, China","Mon Feb 01, 2021 08:15 UTC",Active,0,Failure
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Jan 29, 2021 04:47 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Jan 24, 2021 15:00 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jan 20, 2021 13:02 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Wed Jan 20, 2021 07:26 UTC",Active,7.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jan 19, 2021 16:25 UTC",Active,29.15,Success
+Virgin Orbit,"Cosmic Girl, Mojave Air and Space Port, California, USA","Sun Jan 17, 2021 19:38 UTC",Active,12.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Thu Jan 14, 2021 17:17 UTC",Active,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Jan 08, 2021 02:15 UTC",Active,50.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Tue Dec 29, 2020 16:42 UTC",Active,30.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Dec 27, 2020 15:44 UTC",Active,64.68,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Tue Dec 22, 2020 04:37 UTC",Active,27.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Dec 19, 2020 14:00 UTC",Active,50.0,Success
+Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Fri Dec 18, 2020 12:26 UTC",Active,25.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Dec 17, 2020 10:09 UTC",Active,31.0,Success
+Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Tue Dec 15, 2020 20:55 UTC",Active,2.5,Failure
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Tue Dec 15, 2020 10:09 UTC",Active,7.5,Success
+VKS RF,"Site 35/1, Plesetsk Cosmodrome, Russia","Mon Dec 14, 2020 05:50 UTC",Active,100.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Dec 13, 2020 17:30 UTC",Active,50.0,Success
+Virgin Galactic,"VMS Eve, Spaceport America, New Mexico, USA","Sat Dec 12, 2020 16:19 UTC",Active,0,Partial Failure
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Dec 11, 2020 01:09 UTC",Active,350.0,Success
+SpaceX,"Suborbital Pad A, Starbase, Texas, USA","Wed Dec 09, 2020 22:45 UTC",Active,0,Partial Failure
+CASC,"Xichang Satellite Launch Center, China","Wed Dec 09, 2020 20:14 UTC",Active,5.3,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Dec 06, 2020 16:17 UTC",Active,50.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Dec 06, 2020 03:58 UTC",Active,29.15,Success
+VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Dec 03, 2020 01:14 UTC",Active,25.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Dec 02, 2020 01:33 UTC",Active,30.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Nov 29, 2020 07:25 UTC",Active,90.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Nov 25, 2020 02:13 UTC",Active,50.0,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Mon Nov 23, 2020 20:30 UTC",Active,0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sat Nov 21, 2020 17:17 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Fri Nov 20, 2020 02:20 UTC",Active,7.5,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Nov 17, 2020 01:52 UTC",Active,37.0,Failure
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Nov 16, 2020 00:27 UTC",Active,50.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Nov 13, 2020 22:32 UTC",Active,140.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Nov 12, 2020 15:59 UTC",Active,29.15,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sat Nov 07, 2020 09:41 UTC",Active,0,Success
+Galactic Energy,"Site 95, Jiuquan Satellite Launch Center, China","Sat Nov 07, 2020 07:12 UTC",Active,4.9,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Fri Nov 06, 2020 03:19 UTC",Active,19.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Nov 05, 2020 23:24 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Wed Oct 28, 2020 21:21 UTC",Active,7.5,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Oct 26, 2020 15:19 UTC",Active,30.8,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Oct 25, 2020 19:08 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Oct 24, 2020 15:31 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Oct 18, 2020 12:25 UTC",Active,50.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Oct 14, 2020 05:45 UTC",Active,17.42,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Tue Oct 13, 2020 13:38 UTC",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 11, 2020 16:57 UTC",Active,29.15,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Oct 06, 2020 11:29 UTC",Active,50.0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Oct 03, 2020 01:16 UTC",Active,85.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Sep 28, 2020 11:20 UTC",Active,25.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Sep 27, 2020 03:23 UTC",Active,64.68,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Sep 21, 2020 05:40 UTC",Active,64.68,Success
+CASC,"DeBo 3 Barge, Yellow Sea","Tue Sep 15, 2020 01:23 UTC",Active,5.3,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Sat Sep 12, 2020 05:02 UTC",Active,5.8,Failure
+Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Sep 12, 2020 03:19 UTC",Active,2.5,Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Sep 07, 2020 05:57 UTC",Active,64.68,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Fri Sep 04, 2020 07:30 UTC",Active,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 03, 2020 12:46 UTC",Active,50.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Thu Sep 03, 2020 01:51 UTC",Active,37.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Aug 31, 2020 03:05 UTC",Active,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Aug 30, 2020 23:18 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Aug 23, 2020 02:27 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Aug 18, 2020 14:31 UTC",Active,50.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Aug 15, 2020 22:04 UTC",Active,200.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Active,29.75,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jul 30, 2020 21:25 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Jul 30, 2020 11:50 UTC",Active,145.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Jul 25, 2020 03:13 UTC",Active,64.68,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Jul 23, 2020 14:26 UTC",Active,17.42,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Thu Jul 23, 2020 04:41 UTC",Active,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jul 20, 2020 21:30 UTC",Active,50.0,Success
+JAXA,"LA-Y1, Tanegashima Space Center, Japan","Sun Jul 19, 2020 21:58 UTC",Active,90.0,Success
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Wed Jul 15, 2020 13:46 UTC",Active,46.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Fri Jul 10, 2020 04:17 UTC",Active,28.3,Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Jul 09, 2020 12:11 UTC",Active,29.15,Success
+IAI,"Pad 1, Palmachim Airbase, Israel","Mon Jul 06, 2020 01:00 UTC",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jul 04, 2020 23:44 UTC",Active,29.75,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sat Jul 04, 2020 21:19 UTC",Active,7.5,Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jul 03, 2020 03:10 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Jun 30, 2020 20:10 UTC",Active,50.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jun 23, 2020 01:43 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Jun 17, 2020 07:19 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Jun 13, 2020 09:21 UTC",Active,50.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sat Jun 13, 2020 05:12 UTC",Active,7.5,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Jun 10, 2020 18:31 UTC",Active,30.8,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Jun 04, 2020 01:25 UTC",Active,50.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun May 31, 2020 08:53 UTC",Active,29.75,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat May 30, 2020 19:22 UTC",Active,50.0,Success
+CASC,"Xichang Satellite Launch Center, China","Fri May 29, 2020 20:13 UTC",Active,5.3,Success
+Virgin Orbit,"Cosmic Girl, Mojave Air and Space Port, California, USA","Mon May 25, 2020 19:50 UTC",Active,12.0,Failure
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri May 22, 2020 07:31 UTC",Active,25.0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Wed May 20, 2020 17:31 UTC",Retired,112.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun May 17, 2020 13:14 UTC",Retired,120.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Tue May 12, 2020 01:16 UTC",Active,5.8,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Tue May 05, 2020 10:00 UTC",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Apr 25, 2020 01:51 UTC",Active,17.42,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Apr 22, 2020 19:30 UTC",Active,50.0,Success
+IRGC,"Launch Platform, Shahrud Missile Test Site, Iran","Wed Apr 22, 2020 03:58 UTC",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Apr 09, 2020 11:46 UTC",Active,29.15,Failure
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Apr 09, 2020 08:05 UTC",Active,17.42,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Mar 26, 2020 20:18 UTC",Active,153.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Mar 24, 2020 03:43 UTC",Active,30.8,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Mar 21, 2020 17:06 UTC",Active,25.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Mar 18, 2020 12:16 UTC",Active,50.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Mar 16, 2020 18:28 UTC",Active,25.0,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Mon Mar 16, 2020 13:34 UTC",Active,0,Failure
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Mar 09, 2020 11:55 UTC",Active,29.15,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Mar 07, 2020 04:50 UTC",Active,50.0,Success
+VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Feb 20, 2020 08:24 UTC",Active,23.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Feb 19, 2020 21:07 UTC",Active,29.75,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 18, 2020 22:18 UTC",Active,200.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Feb 17, 2020 15:05 UTC",Active,50.0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Feb 15, 2020 20:21 UTC",Active,85.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Mon Feb 10, 2020 04:03 UTC",Retired,115.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Sun Feb 09, 2020 15:48 UTC",Active,0,Failure
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Feb 09, 2020 01:34 UTC",Active,90.0,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Feb 06, 2020 21:42 UTC",Active,25.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Fri Jan 31, 2020 02:56 UTC",Active,7.5,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Jan 29, 2020 14:06 UTC",Active,50.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 19, 2020 15:30 UTC",Active,50.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jan 16, 2020 21:05 UTC",Active,200.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Thu Jan 16, 2020 03:02 UTC",Active,5.8,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Jan 15, 2020 02:53 UTC",Active,29.75,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jan 07, 2020 15:20 UTC",Active,29.15,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Jan 07, 2020 02:19 UTC",Active,50.0,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Fri Dec 27, 2019 12:45 UTC",Active,0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Dec 26, 2019 23:11 UTC",Retired,13.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Dec 24, 2019 12:03 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Dec 20, 2019 11:36 UTC",Active,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Dec 20, 2019 03:22 UTC",Active,64.68,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Dec 18, 2019 08:54 UTC",Active,30.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Dec 17, 2019 00:10 UTC",Active,50.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 16, 2019 07:22 UTC",Active,0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Dec 11, 2019 17:55 UTC",Active,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 11, 2019 09:55 UTC",Active,21.0,Success
+VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Dec 11, 2019 08:54 UTC",Active,25.0,Success
+ExPace,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Dec 07, 2019 08:52 UTC",Active,5.8,Success
+ExPace,"Taiyuan Satellite Launch Center, China","Sat Dec 07, 2019 02:55 UTC",Active,5.8,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Dec 06, 2019 09:34 UTC",Active,17.42,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Fri Dec 06, 2019 08:18 UTC",Active,7.5,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Dec 05, 2019 17:29 UTC",Active,50.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Nov 27, 2019 23:52 UTC",Active,64.68,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Nov 27, 2019 03:58 UTC",Active,31.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Nov 26, 2019 21:23 UTC",Active,200.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Nov 25, 2019 17:52 UTC",Active,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Nov 23, 2019 00:55 UTC",Active,0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Sun Nov 17, 2019 10:00 UTC",Active,5.8,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Wed Nov 13, 2019 06:35 UTC",Active,19.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Wed Nov 13, 2019 03:40 UTC",Active,5.8,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Nov 11, 2019 14:56 UTC",Active,50.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Nov 04, 2019 17:43 UTC",Active,29.15,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Nov 03, 2019 03:22 UTC",Active,64.68,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Nov 02, 2019 13:59 UTC",Active,85.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Oct 17, 2019 15:21 UTC",Active,29.15,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu Oct 17, 2019 01:22 UTC",Active,7.5,Success
+Northrop,"Stargazer, Cape Canaveral SFS, Florida, USA","Fri Oct 11, 2019 01:59 UTC",Active,40.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Oct 09, 2019 10:17 UTC",Active,65.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Oct 04, 2019 18:51 UTC",Active,64.68,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Sep 26, 2019 07:46 UTC",Active,25.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 25, 2019 13:57 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Sep 25, 2019 00:54 UTC",Active,29.75,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Tue Sep 24, 2019 16:05 UTC",Retired,112.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Sep 22, 2019 21:10 UTC",Active,0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Thu Sep 19, 2019 06:42 UTC",Active,5.3,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Sep 12, 2019 03:26 UTC",Active,64.68,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Fri Aug 30, 2019 23:41 UTC",Active,5.8,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Aug 30, 2019 14:00 UTC",Retired,13.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Thu Aug 29, 2019",Active,0,Prelaunch Failure
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Thu Aug 22, 2019 13:06 UTC",Retired,164.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Aug 22, 2019 03:38 UTC",Active,17.42,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Aug 19, 2019 12:12 UTC",Active,7.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Aug 19, 2019 12:03 UTC",Active,29.15,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Sat Aug 17, 2019 04:11 UTC",Active,7.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Aug 08, 2019 10:13 UTC",Active,153.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Aug 06, 2019 23:23 UTC",Active,50.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Aug 06, 2019 19:30 UTC",Active,200.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Aug 05, 2019 21:56 UTC",Active,65.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jul 31, 2019 12:10 UTC",Active,17.42,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jul 30, 2019 05:57 UTC",Active,23.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jul 26, 2019 03:57 UTC",Active,30.8,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Jul 25, 2019 22:01 UTC",Active,50.0,Success
+i-Space,"Site 95, Jiuquan Satellite Launch Center, China","Thu Jul 25, 2019 05:00 UTC",Active,0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 22, 2019 09:13 UTC",Active,62.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jul 20, 2019 16:28 UTC",Retired,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Jul 13, 2019 12:30 UTC",Active,65.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Thu Jul 11, 2019 01:53 UTC",Active,37.0,Failure
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jul 10, 2019 17:14 UTC",Active,0,Success
+Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Fri Jul 05, 2019 05:41 UTC",Active,25.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sat Jun 29, 2019 04:30 UTC",Active,7.5,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jun 25, 2019 06:30 UTC",Active,90.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Jun 24, 2019 18:09 UTC",Active,29.15,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jun 20, 2019 21:43 UTC",Active,200.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Wed Jun 12, 2019 14:17 UTC",Active,50.0,Success
+CASC,"Tai Rui Barge, Yellow Sea","Wed Jun 05, 2019 04:06 UTC",Active,5.3,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu May 30, 2019 17:42 UTC",Active,65.0,Success
+Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon May 27, 2019 06:23 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri May 24, 2019 02:30 UTC",Active,50.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed May 22, 2019 22:49 UTC",Active,64.68,Failure
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed May 22, 2019 00:00 UTC",Active,21.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri May 17, 2019 15:48 UTC",Active,20.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sun May 05, 2019 06:00 UTC",Active,7.5,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat May 04, 2019 06:48 UTC",Active,50.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Thu May 02, 2019 13:35 UTC",Active,0,Success
+CASC,"Taiyuan Satellite Launch Center, China","Mon Apr 29, 2019 22:52 UTC",Active,64.68,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Apr 20, 2019 14:41 UTC",Active,29.15,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Wed Apr 17, 2019 20:46 UTC",Retired,85.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 11, 2019 22:35 UTC",Active,90.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Apr 04, 2019 17:04 UTC",Active,30.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Apr 04, 2019 11:01 UTC",Active,17.42,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 01, 2019 03:57 UTC",Active,21.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Mar 31, 2019 15:51 UTC",Active,29.15,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu Mar 28, 2019 23:27 UTC",Active,7.5,Success
+OneSpace,"Site 95, Jiuquan Satellite Launch Center, China","Wed Mar 27, 2019 09:39 UTC",Active,0,Failure
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Fri Mar 22, 2019 01:50 UTC",Active,37.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat Mar 16, 2019 00:26 UTC",Retired,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Mar 14, 2019 19:14 UTC",Retired,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Mar 09, 2019 16:28 UTC",Active,29.15,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Mar 02, 2019 07:49 UTC",Active,50.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Feb 27, 2019 21:37 UTC",Active,30.0,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Fri Feb 22, 2019",Active,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Feb 22, 2019 01:45 UTC",Active,50.0,Success
+VKS RF,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Feb 21, 2019 16:47 UTC",Active,25.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Tue Feb 05, 2019 21:01 UTC",Active,0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 05, 2019 21:01 UTC",Active,200.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Jan 24, 2019 18:07 UTC",Active,0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Jan 23, 2019 15:05 UTC",Active,0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Mon Jan 21, 2019 05:42 UTC",Active,5.3,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Sat Jan 19, 2019 19:10 UTC",Active,350.0,Success
+JAXA,"Mu Pad, Uchinoura Space Center, Japan","Fri Jan 18, 2019 00:50 UTC",Active,39.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Tue Jan 15, 2019 00:30 UTC",Active,0,Failure
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Fri Jan 11, 2019 15:31 UTC",Active,50.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Jan 10, 2019 17:11 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Dec 29, 2018 08:00 UTC",Active,30.0,Success
+Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Thu Dec 27, 2018 02:07 UTC",Active,23.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 24, 2018 16:53 UTC",Active,20.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Dec 23, 2018 13:51 UTC",Active,50.0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Dec 21, 2018 23:51 UTC",Active,5.3,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Dec 21, 2018 00:20 UTC",Active,65.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Dec 19, 2018 16:37 UTC",Active,30.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 19, 2018 10:40 UTC",Active,47.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sun Dec 16, 2018 06:33 UTC",Active,7.5,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Thu Dec 13, 2018",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Dec 07, 2018 18:23 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Dec 07, 2018 04:12 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Dec 05, 2018 18:16 UTC",Active,50.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Dec 04, 2018 20:37 UTC",Active,200.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Mon Dec 03, 2018 18:34 UTC",Active,50.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Dec 03, 2018 11:31 UTC",Retired,0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Nov 30, 2018 02:27 UTC",Retired,13.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Nov 29, 2018 04:27 UTC",Active,21.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Nov 21, 2018 01:42 UTC",Active,37.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Nov 19, 2018 23:40 UTC",Active,29.75,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Nov 18, 2018 18:07 UTC",Active,0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Nov 17, 2018 09:01 UTC",Retired,85.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Nov 16, 2018 18:14 UTC",Retired,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 15, 2018 20:46 UTC",Active,50.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Nov 14, 2018 11:38 UTC",Active,62.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sun Nov 11, 2018 03:50 UTC",Active,7.5,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Nov 07, 2018 00:47 UTC",Active,30.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Nov 03, 2018 20:17 UTC",Active,25.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Nov 01, 2018 15:57 UTC",Active,29.15,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Oct 29, 2018 04:08 UTC",Active,90.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 29, 2018 00:43 UTC",Active,30.8,Success
+Landspace,"Site 95, Jiuquan Satellite Launch Center, China","Sat Oct 27, 2018 08:00 UTC",Retired,0,Failure
+Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Oct 25, 2018 00:15 UTC",Active,20.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Oct 24, 2018 22:57 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Oct 20, 2018 01:45 UTC",Active,200.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Oct 17, 2018 04:15 UTC",Active,153.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Oct 15, 2018 04:23 UTC",Active,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 11, 2018 08:40 UTC",Retired,0,Failure
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Oct 09, 2018 02:43 UTC",Active,30.8,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Mon Oct 08, 2018 02:21 UTC",Active,50.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Sat Sep 29, 2018 04:13 UTC",Active,5.8,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Sep 25, 2018 22:38 UTC",Active,200.0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Sep 22, 2018 17:52 UTC",Retired,112.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Sep 19, 2018 14:07 UTC",Active,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 16, 2018 16:38 UTC",Active,21.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Sat Sep 15, 2018 13:02 UTC",Retired,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Sep 10, 2018 04:45 UTC",Active,50.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Sep 07, 2018 03:15 UTC",Active,30.8,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Aug 24, 2018 23:52 UTC",Active,0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Aug 22, 2018 21:20 UTC",Active,37.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sun Aug 12, 2018 07:31 UTC",Active,350.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Aug 07, 2018 05:18 UTC",Active,50.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Jul 31, 2018 03:00 UTC",Active,64.68,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Jul 29, 2018 01:48 UTC",Active,0,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Thu Jul 26, 2018",Active,0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Wed Jul 25, 2018 11:39 UTC",Active,50.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jul 25, 2018 11:25 UTC",Retired,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Jul 22, 2018 05:50 UTC",Active,50.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Jul 18, 2018 15:11 UTC",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Jul 09, 2018 21:51 UTC",Active,17.42,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Jul 09, 2018 20:58 UTC",Active,69.7,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Jul 09, 2018 03:56 UTC",Active,30.8,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Jun 29, 2018 09:42 UTC",Retired,62.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Jun 27, 2018 03:30 UTC",Active,30.8,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Jun 16, 2018 21:46 UTC",Active,25.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Jun 12, 2018 04:20 UTC",Active,90.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jun 06, 2018 11:12 UTC",Retired,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jun 05, 2018 13:07 UTC",Active,69.7,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jun 04, 2018 04:45 UTC",Retired,62.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jun 02, 2018 04:13 UTC",Active,29.75,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Tue May 29, 2018",Active,0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Tue May 22, 2018 19:47 UTC",Retired,62.0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon May 21, 2018 08:44 UTC",Retired,85.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sun May 20, 2018 21:28 UTC",Active,64.68,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 11, 2018 20:14 UTC",Active,50.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue May 08, 2018 18:28 UTC",Active,64.68,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Sat May 05, 2018 11:05 UTC",Active,109.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu May 03, 2018 16:06 UTC",Active,29.15,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Sun Apr 29, 2018 17:06 UTC",Active,0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Thu Apr 26, 2018 04:42 UTC",Active,5.3,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Apr 25, 2018 17:57 UTC",Retired,13.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Apr 18, 2018 22:51 UTC",Retired,62.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Apr 18, 2018 22:12 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Apr 14, 2018 23:13 UTC",Active,153.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 11, 2018 22:34 UTC",Active,31.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Apr 10, 2018 04:25 UTC",Active,64.68,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Thu Apr 05, 2018",Active,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Apr 05, 2018 21:34 UTC",Active,200.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Apr 02, 2018 20:30 UTC",Retired,62.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Mar 31, 2018 03:22 UTC",Active,64.68,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Fri Mar 30, 2018 14:13 UTC",Retired,62.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Mar 29, 2018 17:56 UTC",Active,0,Success
+Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Mar 29, 2018 17:38 UTC",Active,0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Mar 29, 2018 11:26 UTC",Active,47.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Mar 21, 2018 17:44 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Mar 17, 2018 07:10 UTC",Active,29.75,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Mar 09, 2018 17:10 UTC",Active,30.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Mar 06, 2018 05:33 UTC",Retired,62.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Mar 01, 2018 22:02 UTC",Active,145.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Feb 27, 2018 04:34 UTC",Active,90.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Thu Feb 22, 2018 14:17 UTC",Retired,62.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 13, 2018 08:13 UTC",Active,17.42,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Feb 12, 2018 05:03 UTC",Active,0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Feb 06, 2018 20:45 UTC",Active,90.0,Success
+JAXA,"Uchinoura Space Center, Japan","Sat Feb 03, 2018 05:03 UTC",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Feb 02, 2018 07:51 UTC",Active,29.75,Success
+Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Thu Feb 01, 2018 02:07 UTC",Active,23.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Jan 31, 2018 21:25 UTC",Retired,62.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jan 25, 2018 22:20 UTC",Active,200.0,Partial Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Jan 25, 2018 05:39 UTC",Active,30.8,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sun Jan 21, 2018 01:43 UTC",Active,7.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Jan 20, 2018 00:48 UTC",Retired,115.0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Jan 19, 2018 04:12 UTC",Active,5.3,Success
+JAXA,"Mu Pad, Uchinoura Space Center, Japan","Wed Jan 17, 2018 21:06 UTC",Active,39.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jan 13, 2018 07:10 UTC",Active,29.75,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Fri Jan 12, 2018 22:11 UTC",Retired,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jan 12, 2018 03:59 UTC",Active,31.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Jan 11, 2018 23:18 UTC",Active,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Jan 09, 2018 03:24 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jan 08, 2018 01:00 UTC",Retired,62.0,Success
+Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Tue Dec 26, 2017 19:00 UTC",Retired,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 25, 2017 19:44 UTC",Active,30.8,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Dec 23, 2017 04:14 UTC",Active,29.75,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sat Dec 23, 2017 01:27 UTC",Retired,62.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Dec 23, 2017 01:26 UTC",Active,90.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Dec 17, 2017 07:21 UTC",Retired,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Dec 15, 2017 15:36 UTC",Retired,62.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Dec 12, 2017 18:36 UTC",Retired,0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Tue Dec 12, 2017",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Dec 10, 2017 16:40 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Dec 03, 2017 04:11 UTC",Active,29.75,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Dec 02, 2017 10:43 UTC",Active,20.0,Success
+Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Tue Nov 28, 2017 05:41 UTC",Active,25.0,Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Nov 24, 2017 18:10 UTC",Active,30.8,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Tue Nov 21, 2017 04:50 UTC",Active,19.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Sat Nov 18, 2017 09:47 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Nov 14, 2017 18:35 UTC",Active,64.68,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Nov 12, 2017 12:19 UTC",Retired,85.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Nov 08, 2017 01:42 UTC",Active,37.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Nov 05, 2017 11:45 UTC",Active,0,Success
+Northrop,"SLC-576E, Vandenberg SFB, California, USA","Tue Oct 31, 2017 21:37 UTC",Active,45.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Oct 30, 2017 19:34 UTC",Retired,62.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun Oct 15, 2017 07:28 UTC",Active,123.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Oct 14, 2017 08:46 UTC",Active,17.42,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Oct 13, 2017 09:27 UTC",Retired,13.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Oct 11, 2017 22:53 UTC",Retired,62.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Oct 09, 2017 22:01 UTC",Active,90.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Mon Oct 09, 2017 12:37 UTC",Retired,62.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 09, 2017 04:13 UTC",Active,29.75,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Sep 29, 2017 21:56 UTC",Active,200.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Sep 29, 2017 04:21 UTC",Active,30.8,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Sep 28, 2017 18:52 UTC",Active,65.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Sun Sep 24, 2017 05:49 UTC",Active,145.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Sep 22, 2017 00:02 UTC",Active,25.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Sep 12, 2017 21:17 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Sep 11, 2017 19:23 UTC",Active,65.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 07, 2017 14:00 UTC",Retired,62.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Aug 31, 2017 13:30 UTC",Active,31.0,Failure
+Northrop,"SLC-46, Cape Canaveral SFS, Florida, USA","Sat Aug 26, 2017 06:04 UTC",Active,46.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Thu Aug 24, 2017 18:51 UTC",Retired,62.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Aug 19, 2017 05:29 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Aug 18, 2017 12:29 UTC",Active,109.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Aug 16, 2017 22:07 UTC",Active,65.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Aug 14, 2017 16:31 UTC",Retired,62.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Aug 02, 2017 01:58 UTC",Active,37.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 28, 2017 15:41 UTC",Retired,0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Thu Jul 27, 2017 09:30 UTC",Active,0,Failure
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 14, 2017 06:36 UTC",Active,23.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 05, 2017 23:38 UTC",Retired,62.0,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Sun Jul 02, 2017 11:23 UTC",Active,0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jun 28, 2017 21:15 UTC",Active,200.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sun Jun 25, 2017 20:25 UTC",Retired,62.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 23, 2017 19:10 UTC",Retired,62.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 23, 2017 18:04 UTC",Active,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jun 23, 2017 03:59 UTC",Active,31.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Jun 18, 2017 16:11 UTC",Active,29.15,Partial Failure
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Jun 15, 2017 03:00 UTC",Active,64.68,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jun 14, 2017 09:20 UTC",Active,17.42,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Jun 08, 2017 03:45 UTC",Active,65.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jun 05, 2017 11:58 UTC",Active,62.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Jun 03, 2017 21:07 UTC",Retired,62.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jun 01, 2017 23:45 UTC",Active,200.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Jun 01, 2017 00:17 UTC",Active,90.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu May 25, 2017 06:33 UTC",Active,25.0,Success
+Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu May 25, 2017 04:20 UTC",Active,7.5,Failure
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu May 18, 2017 11:54 UTC",Active,30.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 15, 2017 23:21 UTC",Retired,62.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri May 05, 2017 11:27 UTC",Active,47.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu May 04, 2017 21:50 UTC",Active,200.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 01, 2017 11:15 UTC",Retired,62.0,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Thu Apr 20, 2017 11:41 UTC",Active,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Apr 20, 2017 07:13 UTC",Retired,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue Apr 18, 2017 15:11 UTC",Active,109.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Apr 12, 2017 11:04 UTC",Active,29.15,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 30, 2017 22:27 UTC",Retired,62.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sun Mar 19, 2017 00:18 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Fri Mar 17, 2017 01:20 UTC",Active,90.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 16, 2017 06:00 UTC",Retired,62.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Mar 07, 2017 01:49 UTC",Active,37.0,Success
+CASIC,"Site 95, Jiuquan Satellite Launch Center, China","Thu Mar 02, 2017 23:53 UTC",Active,0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Wed Mar 01, 2017 17:49 UTC",Active,109.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 22, 2017 05:58 UTC",Retired,20.0,Success
+SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Feb 19, 2017 14:39 UTC",Retired,62.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Feb 15, 2017 03:58 UTC",Active,31.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 14, 2017 21:39 UTC",Active,200.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sat Jan 28, 2017 01:03 UTC",Active,30.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Jan 24, 2017 07:44 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Jan 21, 2017 00:42 UTC",Active,109.0,Success
+JAXA,"Uchinoura Space Center, Japan","Sat Jan 14, 2017 23:33 UTC",Active,0,Failure
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sat Jan 14, 2017 17:54 UTC",Retired,62.0,Success
+ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Mon Jan 09, 2017 04:11 UTC",Active,5.8,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Jan 05, 2017 15:18 UTC",Active,29.15,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Dec 28, 2016 03:23 UTC",Active,29.75,Partial Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 21, 2016 20:30 UTC",Active,200.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 21, 2016 19:22 UTC",Active,29.75,Success
+JAXA,"Mu Pad, Uchinoura Space Center, Japan","Tue Dec 20, 2016 11:00 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun Dec 18, 2016 19:13 UTC",Retired,130.0,Success
+Northrop,"Stargazer, Cape Canaveral SFS, Florida, USA","Thu Dec 15, 2016 13:37 UTC",Active,40.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Dec 10, 2016 16:11 UTC",Active,29.15,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Fri Dec 09, 2016 13:26 UTC",Retired,112.5,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Wed Dec 07, 2016 23:52 UTC",Retired,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 07, 2016 04:54 UTC",Active,31.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Mon Dec 05, 2016 13:51 UTC",Active,37.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Dec 01, 2016 14:51 UTC",Retired,20.0,Failure
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Nov 22, 2016 15:24 UTC",Active,20.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Nov 19, 2016 23:42 UTC",Active,145.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Nov 17, 2016 20:20 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Nov 17, 2016 13:06 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Nov 11, 2016 23:14 UTC",Active,29.75,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Fri Nov 11, 2016 18:30 UTC",Active,109.0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Wed Nov 09, 2016 23:42 UTC",Active,5.3,Success
+CASC,"LC-101, Wenchang Satellite Launch Center, China","Thu Nov 03, 2016 12:43 UTC",Active,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Nov 02, 2016 06:20 UTC",Active,90.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Oct 19, 2016 08:05 UTC",Retired,0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon Oct 17, 2016 23:45 UTC",Retired,85.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Sun Oct 16, 2016 23:30 UTC",Active,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Oct 05, 2016 20:30 UTC",Active,200.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Oct 05, 2016 15:36 UTC",Active,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 26, 2016 03:42 UTC",Retired,25.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Fri Sep 16, 2016 01:43 UTC",Active,37.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Thu Sep 15, 2016 14:04 UTC",Active,0,Success
+IAI,"Pad 1, Palmachim Airbase, Israel","Tue Sep 13, 2016 14:38 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Sep 08, 2016 23:05 UTC",Retired,115.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Sep 08, 2016 11:20 UTC",Active,47.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Sep 01, 2016 13:07 UTC",Retired,62.0,Prelaunch Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Aug 31, 2016 18:55 UTC",Active,64.68,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Aug 24, 2016 22:16 UTC",Active,200.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Aug 19, 2016 04:52 UTC",Retired,164.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Aug 15, 2016 17:40 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Aug 14, 2016 05:26 UTC",Retired,62.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Aug 09, 2016 22:55 UTC",Active,64.68,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Aug 05, 2016 16:22 UTC",Active,29.15,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Jul 28, 2016 12:37 UTC",Active,123.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jul 18, 2016 04:45 UTC",Retired,62.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Jul 16, 2016 21:41 UTC",Retired,20.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jul 07, 2016 01:36 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Jun 29, 2016 03:21 UTC",Active,64.68,Success
+CASC,"LC-201, Wenchang Satellite Launch Center, China","Sat Jun 25, 2016 12:00 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Jun 24, 2016 14:30 UTC",Active,153.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Jun 22, 2016 03:55 UTC",Active,31.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Sun Jun 19, 2016 14:36 UTC",Active,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Jun 18, 2016 21:38 UTC",Active,200.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Jun 15, 2016 14:29 UTC",Retired,62.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Jun 12, 2016 15:30 UTC",Active,20.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat Jun 11, 2016 17:51 UTC",Active,350.0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Jun 09, 2016 07:10 UTC",Active,65.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Jun 04, 2016 14:00 UTC",Retired,13.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon May 30, 2016 03:17 UTC",Active,64.68,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun May 29, 2016 08:44 UTC",Active,25.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri May 27, 2016 21:39 UTC",Retired,62.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Tue May 24, 2016 08:48 UTC",Active,30.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun May 15, 2016 02:43 UTC",Active,29.75,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri May 06, 2016 05:21 UTC",Retired,62.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 28, 2016 07:20 UTC",Active,31.0,Success
+Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Thu Apr 28, 2016 02:01 UTC",Active,23.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Mon Apr 25, 2016 21:02 UTC",Active,30.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Apr 08, 2016 20:43 UTC",Retired,62.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Apr 05, 2016 17:38 UTC",Active,29.75,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Sat Apr 02, 2016",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 31, 2016 16:23 UTC",Active,17.42,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Mar 29, 2016 20:11 UTC",Active,69.7,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Mar 24, 2016 09:42 UTC",Active,17.42,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Mar 23, 2016 03:05 UTC",Active,109.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 18, 2016 21:26 UTC",Retired,0,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Mar 14, 2016 09:31 UTC",Active,65.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Mar 13, 2016 18:56 UTC",Active,20.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Mar 10, 2016 10:31 UTC",Active,31.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Mar 09, 2016 05:20 UTC",Active,200.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Mar 04, 2016 23:35 UTC",Retired,62.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Feb 17, 2016 08:45 UTC",Active,90.0,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Feb 16, 2016 17:57 UTC",Retired,13.0,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Wed Feb 10, 2016 11:40 UTC",Retired,0,Success
+KCST,"Pad 1, Sohae Satellite Launching Station, North Korea","Sun Feb 07, 2016 00:30 UTC",Active,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Feb 07, 2016 00:21 UTC",Active,25.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Feb 05, 2016 13:38 UTC",Active,109.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Feb 01, 2016 07:29 UTC",Active,20.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Jan 29, 2016 22:20 UTC",Active,65.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jan 27, 2016 23:20 UTC",Active,200.0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Fri Jan 22, 2016",Active,0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Jan 20, 2016 04:01 UTC",Active,31.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sun Jan 17, 2016 18:42 UTC",Retired,56.5,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jan 15, 2016 16:57 UTC",Active,29.15,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Dec 28, 2015 16:04 UTC",Active,29.15,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Dec 24, 2015 21:31 UTC",Active,65.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Dec 22, 2015 01:29 UTC",Retired,62.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Dec 21, 2015 08:44 UTC",Active,17.42,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Dec 17, 2015 11:51 UTC",Active,30.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Dec 17, 2015 00:12 UTC",Active,29.75,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 16, 2015 12:30 UTC",Active,21.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Dec 15, 2015 11:03 UTC",Retired,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sun Dec 13, 2015 00:19 UTC",Active,65.0,Success
+Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Fri Dec 11, 2015 13:45 UTC",Retired,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Dec 09, 2015 16:46 UTC",Active,29.15,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun Dec 06, 2015 21:44 UTC",Active,109.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Dec 05, 2015 14:08 UTC",Active,0,Partial Failure
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Thu Dec 03, 2015 04:04 UTC",Active,37.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Nov 26, 2015 21:24 UTC",Active,64.68,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Nov 24, 2015 06:50 UTC",Active,0,Success
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Mon Nov 23, 2015",Active,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Nov 20, 2015 16:07 UTC",Active,29.15,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Nov 17, 2015 06:33 UTC",Active,25.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Nov 10, 2015 21:34 UTC",Active,200.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Nov 08, 2015 07:06 UTC",Active,64.68,Success
+Sandia,"LP-41, Kauai, Pacific Missile Range Facility","Wed Nov 04, 2015 03:45 UTC",Active,15.0,Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Nov 03, 2015 16:25 UTC",Active,29.15,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Oct 31, 2015 16:13 UTC",Active,109.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 26, 2015 07:10 UTC",Active,29.75,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Oct 16, 2015 20:40 UTC",Active,65.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Oct 16, 2015 16:16 UTC",Active,29.15,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Thu Oct 08, 2015 12:49 UTC",Active,109.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Oct 07, 2015 04:13 UTC",Active,29.75,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Oct 02, 2015 10:28 UTC",Active,123.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 01, 2015 16:49 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Sep 30, 2015 20:30 UTC",Active,200.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Sep 29, 2015 23:13 UTC",Active,29.15,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 28, 2015 04:30 UTC",Active,31.0,Success
+CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Sep 25, 2015 01:41 UTC",Active,5.3,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 23, 2015 21:59 UTC",Retired,13.0,Success
+CASC,"LC-16, Taiyuan Satellite Launch Center, China","Sat Sep 19, 2015 23:01 UTC",Active,19.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Sep 14, 2015 19:00 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Sep 14, 2015 04:42 UTC",Active,29.75,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat Sep 12, 2015 15:42 UTC",Active,29.15,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Sep 11, 2015 02:08 UTC",Active,30.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Sep 02, 2015 10:18 UTC",Active,153.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 02, 2015 04:37 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Aug 28, 2015 11:43 UTC",Active,65.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Aug 27, 2015 11:22 UTC",Active,47.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Aug 27, 2015 02:31 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 20, 2015 20:34 UTC",Active,200.0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Wed Aug 19, 2015 11:50 UTC",Retired,112.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat Jul 25, 2015 12:29 UTC",Active,0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Jul 24, 2015 00:07 UTC",Retired,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 22, 2015 21:02 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jul 15, 2015 21:42 UTC",Active,200.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Jul 15, 2015 15:36 UTC",Active,109.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jul 10, 2015 16:28 UTC",Active,31.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 03, 2015 04:55 UTC",Retired,20.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Jun 28, 2015 14:21 UTC",Retired,56.5,Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jun 26, 2015 06:22 UTC",Active,64.68,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jun 23, 2015 16:43 UTC",Active,20.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Jun 23, 2015 01:51 UTC",Active,37.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 05, 2015 15:23 UTC",Active,17.42,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed May 27, 2015 21:16 UTC",Active,200.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed May 20, 2015 15:05 UTC",Retired,120.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat May 16, 2015 05:47 UTC",Active,65.0,Failure
+Blue Origin,"Launch Site One, West Texas, Texas, USA","Wed Apr 29, 2015",Active,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Apr 28, 2015 07:09 UTC",Active,17.42,Failure
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Apr 27, 2015 23:03 UTC",Retired,56.5,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sun Apr 26, 2015 20:00 UTC",Active,200.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Apr 14, 2015 20:10 UTC",Retired,56.5,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Mar 31, 2015 13:47 UTC",Retired,13.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Mar 30, 2015 13:52 UTC",Active,20.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sat Mar 28, 2015 11:49 UTC",Active,31.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Mar 27, 2015 21:46 UTC",Active,30.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 27, 2015 19:42 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Mar 26, 2015 01:21 UTC",Active,90.0,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Mar 25, 2015 22:08 UTC",Retired,29.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Wed Mar 25, 2015 18:36 UTC",Retired,164.0,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Mar 18, 2015 22:04 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Mar 13, 2015 02:44 UTC",Active,123.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Mar 02, 2015 03:50 UTC",Retired,56.5,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Feb 27, 2015 11:01 UTC",Active,17.42,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Feb 17, 2015 11:00 UTC",Retired,20.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Feb 11, 2015 23:03 UTC",Retired,56.5,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Feb 11, 2015 13:40 UTC",Active,37.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Mon Feb 02, 2015 08:52 UTC",Active,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Feb 01, 2015 12:30 UTC",Active,65.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Feb 01, 2015 01:21 UTC",Active,90.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Sat Jan 31, 2015 14:22 UTC",Retired,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Jan 21, 2015 01:04 UTC",Active,153.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Jan 10, 2015 09:47 UTC",Retired,56.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Dec 31, 2014 01:02 UTC",Active,69.7,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Dec 27, 2014 21:37 UTC",Active,65.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Dec 27, 2014 03:22 UTC",Active,64.68,Success
+VKS RF,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Dec 26, 2014 18:55 UTC",Active,20.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Dec 25, 2014 03:01 UTC",Active,20.0,Success
+VKS RF,"Site 35/1, Plesetsk Cosmodrome, Russia","Tue Dec 23, 2014 05:57 UTC",Active,100.0,Success
+VKS RF,"Site 175/59, Baikonur Cosmodrome, Kazakhstan","Fri Dec 19, 2014 04:43 UTC",Retired,0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Dec 18, 2014 18:37 UTC",Active,30.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Dec 18, 2014 04:00 UTC",Active,62.0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Dec 15, 2014 00:16 UTC",Active,65.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Sat Dec 13, 2014 03:19 UTC",Active,145.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 10, 2014 19:33 UTC",Active,64.68,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Dec 07, 2014 03:26 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Dec 06, 2014 20:40 UTC",Active,200.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Dec 05, 2014 12:05 UTC",Active,350.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Dec 03, 2014 04:22 UTC",Active,90.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Nov 30, 2014 21:52 UTC",Active,25.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Nov 23, 2014 21:01 UTC",Retired,0,Success
+CASIC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Nov 21, 2014 06:37 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Nov 20, 2014 07:12 UTC",Active,29.75,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Nov 14, 2014 18:53 UTC",Active,30.8,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Nov 06, 2014 07:35 UTC",Retired,29.0,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Fri Oct 31, 2014 16:18 UTC",Active,0,Failure
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Oct 30, 2014 01:42 UTC",Active,23.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Oct 29, 2014 17:21 UTC",Active,109.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Oct 29, 2014 07:09 UTC",Active,17.42,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Tue Oct 28, 2014 22:22 UTC",Retired,80.0,Failure
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 27, 2014 06:59 UTC",Active,30.8,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Oct 23, 2014 18:00 UTC",Active,20.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Oct 21, 2014 15:09 UTC",Active,65.0,Partial Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Oct 20, 2014 06:31 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 16, 2014 21:43 UTC",Active,200.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Oct 15, 2014 20:02 UTC",Active,31.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Oct 07, 2014 05:16 UTC",Active,90.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Sep 28, 2014 05:13 UTC",Active,30.8,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Sep 27, 2014 20:23 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Sep 25, 2014 20:25 UTC",Retired,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Sep 21, 2014 05:52 UTC",Retired,56.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Sep 17, 2014 00:10 UTC",Active,109.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Sep 11, 2014 22:05 UTC",Active,200.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Sep 08, 2014 03:22 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Sep 07, 2014 05:00 UTC",Retired,56.5,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Sep 04, 2014 00:15 UTC",Active,29.75,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Aug 22, 2014 12:27 UTC",Active,30.0,Partial Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Aug 19, 2014 03:15 UTC",Active,64.68,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Wed Aug 13, 2014 18:30 UTC",Active,109.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Aug 09, 2014 05:45 UTC",Active,64.68,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Aug 05, 2014 08:00 UTC",Retired,56.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Aug 02, 2014 03:23 UTC",Active,109.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Jul 29, 2014 23:47 UTC",Retired,0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Mon Jul 28, 2014 23:28 UTC",Retired,164.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 23, 2014 21:44 UTC",Retired,20.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 18, 2014 20:50 UTC",Active,17.42,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jul 14, 2014 15:15 UTC",Retired,56.5,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Jul 13, 2014 16:52 UTC",Retired,80.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Jul 10, 2014 18:55 UTC",Active,30.0,Success
+VKS RF,"Site 35/1, Plesetsk Cosmodrome, Russia","Wed Jul 09, 2014 12:00 UTC",Retired,0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jul 08, 2014 15:58 UTC",Active,25.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Jul 03, 2014 12:43 UTC",Retired,13.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Wed Jul 02, 2014 09:56 UTC",Retired,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jun 30, 2014 04:22 UTC",Active,21.0,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Jun 19, 2014 19:11 UTC",Retired,29.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Jun 14, 2014 17:16 UTC",Active,25.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed May 28, 2014 19:57 UTC",Retired,0,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Mon May 26, 2014 21:09 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat May 24, 2014 03:05 UTC",Active,90.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri May 23, 2014 05:27 UTC",Retired,13.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu May 22, 2014 13:09 UTC",Active,109.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat May 17, 2014 00:03 UTC",Retired,164.0,Success
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu May 15, 2014 21:41 UTC",Active,65.0,Failure
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue May 06, 2014 13:49 UTC",Active,17.42,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Wed Apr 30, 2014 01:35 UTC",Active,37.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Apr 28, 2014 04:25 UTC",Active,65.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Apr 18, 2014 19:25 UTC",Retired,56.5,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 16, 2014 16:20 UTC",Retired,20.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Apr 10, 2014 17:45 UTC",Active,145.0,Success
+IAI,"Pad 1, Palmachim Airbase, Israel","Wed Apr 09, 2014 19:06 UTC",Active,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 09, 2014 15:26 UTC",Retired,20.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Apr 04, 2014 11:44 UTC",Active,31.0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Apr 03, 2014 21:02 UTC",Active,30.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Thu Apr 03, 2014 14:46 UTC",Active,109.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Mar 31, 2014 02:58 UTC",Active,30.8,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Mar 25, 2014 21:17 UTC",Retired,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Mar 23, 2014 22:54 UTC",Active,25.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Mar 22, 2014 22:04 UTC",Active,200.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Mar 15, 2014 23:08 UTC",Active,65.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Feb 27, 2014 18:37 UTC",Active,90.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Feb 21, 2014 01:59 UTC",Retired,164.0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Feb 14, 2014 21:09 UTC",Active,65.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Feb 06, 2014 21:30 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 05, 2014 16:23 UTC",Retired,20.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Jan 24, 2014 02:33 UTC",Active,109.0,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Fri Jan 10, 2014",Active,0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Thu Jan 09, 2014 18:07 UTC",Retired,80.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Jan 06, 2014 22:06 UTC",Retired,56.5,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sun Jan 05, 2014 10:48 UTC",Active,47.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Dec 28, 2013 12:30 UTC",Active,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Dec 26, 2013 10:49 UTC",Active,65.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Dec 25, 2013 00:31 UTC",Retired,13.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Dec 20, 2013 16:42 UTC",Active,29.15,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Thu Dec 19, 2013 09:12 UTC",Active,30.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Dec 09, 2013 03:26 UTC",Active,64.68,Failure
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Dec 08, 2013 12:11 UTC",Active,65.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Fri Dec 06, 2013 07:14 UTC",Retired,120.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Dec 03, 2013 22:41 UTC",Retired,56.5,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Dec 01, 2013 17:30 UTC",Active,29.15,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Nov 25, 2013 20:53 UTC",Retired,20.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Nov 25, 2013 02:12 UTC",Active,29.75,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Nov 22, 2013 12:02 UTC",Retired,13.0,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Nov 21, 2013 07:10 UTC",Retired,29.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Nov 20, 2013 03:31 UTC",Active,64.68,Success
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Wed Nov 20, 2013 01:15 UTC",Active,40.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Mon Nov 18, 2013 18:28 UTC",Active,109.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Nov 11, 2013 23:46 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Nov 07, 2013 04:14 UTC",Retired,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Tue Nov 05, 2013 09:08 UTC",Active,31.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Oct 29, 2013 02:50 UTC",Active,30.8,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Oct 25, 2013 18:08 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Oct 25, 2013 03:50 UTC",Active,64.68,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Sep 29, 2013 21:38 UTC",Active,65.0,Success
+SpaceX,"SLC-4E, Vandenberg SFB, California, USA","Sun Sep 29, 2013 16:00 UTC",Retired,56.5,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 25, 2013 20:58 UTC",Retired,0,Success
+CASIC,"Jiuquan Satellite Launch Center, China","Wed Sep 25, 2013 04:37 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Sep 23, 2013 03:07 UTC",Active,64.68,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Wed Sep 18, 2013 14:58 UTC",Retired,80.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Sep 18, 2013 08:10 UTC",Active,140.0,Success
+JAXA,"Mu Pad, Uchinoura Space Center, Japan","Sat Sep 14, 2013 05:00 UTC",Retired,0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 11, 2013 23:23 UTC",Retired,13.0,Success
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Sat Sep 07, 2013 03:27 UTC",Active,55.0,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Thu Sep 05, 2013",Active,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Sep 01, 2013 19:16 UTC",Active,64.68,Success
+Land Launch,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Sat Aug 31, 2013 20:05 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 29, 2013 20:30 UTC",Active,200.0,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Wed Aug 28, 2013 18:03 UTC",Active,350.0,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Aug 22, 2013 14:39 UTC",Retired,29.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Thu Aug 08, 2013 00:29 UTC",Retired,0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Aug 03, 2013 19:48 UTC",Retired,112.5,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Jul 27, 2013 20:45 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jul 25, 2013 19:54 UTC",Active,200.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jul 19, 2013 23:37 UTC",Active,64.68,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Jul 19, 2013 13:00 UTC",Active,153.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Jul 15, 2013 09:27 UTC",Active,30.8,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Jul 02, 2013 02:38 UTC",Active,65.0,Failure
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 01, 2013 18:11 UTC",Active,31.0,Success
+Northrop,"Stargazer, Vandenberg SFB, California, USA","Fri Jun 28, 2013 02:27 UTC",Active,40.0,Success
+VKS RF,"Site 175/59, Baikonur Cosmodrome, Kazakhstan","Thu Jun 27, 2013 16:53 UTC",Retired,0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Tue Jun 25, 2013 19:27 UTC",Active,30.0,Success
+VKS RF,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jun 25, 2013 17:28 UTC",Active,20.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Tue Jun 11, 2013 09:38 UTC",Active,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 07, 2013 18:37 UTC",Active,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jun 05, 2013 21:52 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Jun 03, 2013 09:18 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue May 28, 2013 20:31 UTC",Retired,0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat May 25, 2013 00:27 UTC",Retired,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed May 15, 2013 21:38 UTC",Active,109.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue May 14, 2013 16:01 UTC",Active,65.0,Success
+Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue May 07, 2013 02:06 UTC",Active,37.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed May 01, 2013 16:06 UTC",Active,29.15,Success
+Virgin Galactic,"VMS Eve, Mojave Air and Space Port, California, USA","Mon Apr 29, 2013 15:02 UTC",Active,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Apr 26, 2013 05:23 UTC",Active,25.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Apr 26, 2013 04:13 UTC",Active,29.75,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 24, 2013 10:12 UTC",Retired,20.0,Success
+Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Apr 21, 2013 21:00 UTC",Retired,80.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Apr 19, 2013 10:00 UTC",Active,17.42,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Apr 15, 2013 18:35 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Mar 28, 2013 20:43 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Mar 26, 2013 19:06 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue Mar 19, 2013 21:21 UTC",Active,109.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Mar 01, 2013 15:10 UTC",Retired,59.5,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Feb 25, 2013 12:31 UTC",Active,21.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Mon Feb 11, 2013 18:02 UTC",Active,109.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Feb 11, 2013 14:41 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Feb 07, 2013 21:36 UTC",Active,200.0,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Feb 06, 2013 16:04 UTC",Active,23.0,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Fri Feb 01, 2013 06:55 UTC",Retired,0,Failure
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Jan 31, 2013 01:48 UTC",Active,109.0,Success
+KARI,"LC-1, Naro Space Center, South Korea","Wed Jan 30, 2013 07:00 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Jan 27, 2013 04:40 UTC",Active,90.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Jan 15, 2013 16:24 UTC",Retired,13.0,Partial Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 19, 2012 21:49 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Dec 19, 2012 12:12 UTC",Retired,0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Dec 18, 2012 16:13 UTC",Active,29.75,Success
+KCST,"Pad 1, Sohae Satellite Launching Station, North Korea","Wed Dec 12, 2012 00:49 UTC",Active,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue Dec 11, 2012 18:03 UTC",Retired,120.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Dec 08, 2012 13:13 UTC",Active,65.0,Partial Failure
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Mon Dec 03, 2012 20:43 UTC",Retired,0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sun Dec 02, 2012 02:02 UTC",Active,30.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Nov 27, 2012 10:13 UTC",Active,29.15,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Nov 25, 2012 04:06 UTC",Active,64.68,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Nov 20, 2012 18:30 UTC",Active,65.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Nov 18, 2012 22:53 UTC",Active,30.8,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Nov 14, 2012 11:42 UTC",Active,23.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Nov 10, 2012 21:05 UTC",Active,200.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Nov 02, 2012 21:03 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Oct 31, 2012 07:41 UTC",Retired,20.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Oct 25, 2012 15:33 UTC",Retired,20.14,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Oct 23, 2012 10:51 UTC",Retired,0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sun Oct 14, 2012 08:36 UTC",Active,65.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Oct 14, 2012 03:25 UTC",Active,30.8,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Oct 12, 2012 18:15 UTC",Active,30.0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Mon Oct 08, 2012 00:35 UTC",Retired,59.5,Partial Failure
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Thu Oct 04, 2012 12:10 UTC",Retired,164.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Sep 29, 2012 04:12 UTC",Active,29.75,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Sep 28, 2012 21:18 UTC",Active,200.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Sat Sep 22, 2012",Active,0,Failure
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Sep 18, 2012 19:10 UTC",Active,29.15,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Sep 17, 2012 16:28 UTC",Active,23.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Thu Sep 13, 2012 21:39 UTC",Active,109.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 09, 2012 04:23 UTC",Active,21.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Aug 30, 2012 08:05 UTC",Active,109.0,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Sun Aug 19, 2012 06:54 UTC",Retired,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Aug 06, 2012 19:31 UTC",Active,65.0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 02, 2012 20:54 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 01, 2012 19:35 UTC",Retired,20.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Jul 28, 2012 01:35 UTC",Retired,13.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Jul 25, 2012 15:43 UTC",Retired,20.14,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Jul 22, 2012 06:41 UTC",Retired,0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Jul 21, 2012 02:06 UTC",Retired,112.5,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jul 15, 2012 02:40 UTC",Retired,0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Jul 09, 2012 18:38 UTC",Active,65.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jul 05, 2012 21:36 UTC",Active,200.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Jun 29, 2012 13:15 UTC",Active,350.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Wed Jun 20, 2012 12:28 UTC",Active,109.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Sat Jun 16, 2012 10:37 UTC",Active,0,Success
+Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands","Wed Jun 13, 2012 16:00 UTC",Active,40.0,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Fri Jun 01, 2012 05:22 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue May 29, 2012 07:31 UTC",Active,64.68,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat May 26, 2012 15:56 UTC",Active,29.15,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Wed May 23, 2012",Active,0,Failure
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue May 22, 2012 07:44 UTC",Retired,59.5,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu May 17, 2012 19:12 UTC",Active,65.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu May 17, 2012 16:39 UTC",Active,90.0,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Thu May 17, 2012 14:05 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue May 15, 2012 22:13 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue May 15, 2012 03:01 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu May 10, 2012 07:06 UTC",Active,64.68,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun May 06, 2012 07:10 UTC",Active,29.75,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri May 04, 2012 18:42 UTC",Active,140.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Apr 29, 2012 20:50 UTC",Active,29.15,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 26, 2012 00:17 UTC",Active,31.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Apr 23, 2012 22:18 UTC",Active,65.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Apr 20, 2012 12:50 UTC",Retired,20.0,Success
+KCST,"Pad 1, Sohae Satellite Launching Station, North Korea","Thu Apr 12, 2012 22:38 UTC",Active,0,Failure
+ULA,"SLC-6, Vandenberg SFB, California, USA","Tue Apr 03, 2012 23:12 UTC",Retired,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat Mar 31, 2012 10:27 UTC",Active,29.15,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Mar 30, 2012 05:49 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Mar 25, 2012 12:10 UTC",Active,65.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Mar 23, 2012 04:34 UTC",Retired,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Feb 24, 2012 22:15 UTC",Active,153.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Feb 24, 2012 16:12 UTC",Retired,20.14,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Feb 14, 2012 19:36 UTC",Active,65.0,Success
+ESA,"ELV-1, Guiana Space Centre, French Guiana, France","Mon Feb 13, 2012 10:00 UTC",Active,37.0,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Fri Feb 03, 2012 00:00 UTC",Retired,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jan 25, 2012 23:06 UTC",Retired,20.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Jan 20, 2012 00:38 UTC",Retired,0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jan 13, 2012 00:56 UTC",Active,69.7,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Jan 09, 2012 03:17 UTC",Active,64.68,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Dec 28, 2011 17:09 UTC",Active,23.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Dec 23, 2011 12:08 UTC",Active,25.0,Failure
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Dec 22, 2011 03:26 UTC",Active,64.68,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Dec 21, 2011 13:16 UTC",Retired,0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Dec 19, 2011 16:41 UTC",Active,29.15,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sat Dec 17, 2011 02:03 UTC",Active,30.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Dec 12, 2011 01:21 UTC",Active,90.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sun Dec 11, 2011 11:16 UTC",Active,65.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Dec 01, 2011 21:07 UTC",Active,69.7,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Nov 29, 2011 18:50 UTC",Active,30.8,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Nov 28, 2011 08:25 UTC",Active,25.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Nov 26, 2011 15:02 UTC",Active,145.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Nov 25, 2011 19:10 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Nov 20, 2011 00:15 UTC",Active,29.75,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Nov 14, 2011 04:14 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Nov 09, 2011 03:21 UTC",Active,64.68,Success
+Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Tue Nov 08, 2011 20:16 UTC",Retired,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Nov 04, 2011 12:51 UTC",Active,65.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Mon Oct 31, 2011 21:58 UTC",Active,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 30, 2011 10:11 UTC",Retired,20.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Fri Oct 28, 2011 09:48 UTC",Retired,0,Success
+Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Fri Oct 21, 2011 10:30 UTC",Active,30.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Oct 19, 2011 18:48 UTC",Active,65.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Oct 12, 2011 05:31 UTC",Active,21.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Oct 07, 2011 08:21 UTC",Active,29.15,Success
+Land Launch,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Wed Oct 05, 2011 21:00 UTC",Retired,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Oct 02, 2011 20:15 UTC",Active,25.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Sep 29, 2011 18:31 UTC",Active,65.0,Success
+CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Thu Sep 29, 2011 13:16 UTC",Active,0,Success
+Northrop,"LP-1, Pacific Spaceport Complex, Kodiak, Alaska, USA","Tue Sep 27, 2011 15:49 UTC",Active,46.0,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Sat Sep 24, 2011 20:17 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Fri Sep 23, 2011 04:36 UTC",Active,90.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Sep 21, 2011 21:38 UTC",Active,200.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Sep 20, 2011 22:47 UTC",Active,65.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Sep 18, 2011 16:33 UTC",Active,29.15,Success
+ULA,"SLC-17B, Cape Canaveral SFS, Florida, USA","Sat Sep 10, 2011 13:08 UTC",Retired,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 24, 2011 13:00 UTC",Retired,20.0,Failure
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 18, 2011 09:28 UTC",Active,30.8,Failure
+Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Aug 17, 2011 21:25 UTC",Active,65.0,Failure
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Aug 17, 2011 07:12 UTC",Retired,29.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Aug 15, 2011 22:57 UTC",Active,64.68,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Aug 11, 2011 16:15 UTC",Active,29.15,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Aug 06, 2011 22:52 UTC",Active,200.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Aug 05, 2011 16:25 UTC",Active,153.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Jul 29, 2011 07:42 UTC",Active,30.8,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Jul 26, 2011 21:44 UTC",Active,69.7,Success
+Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Mon Jul 18, 2011 02:31 UTC",Retired,0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat Jul 16, 2011 06:41 UTC",Retired,164.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Jul 15, 2011 23:16 UTC",Active,65.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri Jul 15, 2011 11:18 UTC",Active,31.0,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jul 13, 2011 02:27 UTC",Active,23.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Jul 11, 2011 15:41 UTC",Retired,20.14,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 08, 2011 15:29 UTC",Retired,450.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Jul 06, 2011 04:28 UTC",Active,30.8,Success
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Thu Jun 30, 2011 03:09 UTC",Active,40.0,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Mon Jun 27, 2011 15:59 UTC",Retired,20.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jun 21, 2011 14:38 UTC",Retired,20.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Jun 20, 2011 16:13 UTC",Active,29.15,Success
+ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Wed Jun 15, 2011 09:15 UTC",Retired,0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Fri Jun 10, 2011 14:20 UTC",Retired,0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jun 07, 2011 20:12 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri May 20, 2011 20:38 UTC",Active,200.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri May 20, 2011 19:15 UTC",Active,65.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 16, 2011 12:56 UTC",Retired,450.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat May 07, 2011 18:10 UTC",Active,109.0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed May 04, 2011 17:41 UTC",Active,23.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 27, 2011 13:05 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Apr 22, 2011 21:37 UTC",Active,200.0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 20, 2011 04:42 UTC",Retired,25.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Fri Apr 15, 2011 04:24 UTC",Retired,115.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Apr 09, 2011 20:47 UTC",Active,69.7,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Apr 04, 2011 22:18 UTC",Retired,0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Mar 11, 2011 23:38 UTC",Retired,164.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Mar 05, 2011 22:46 UTC",Retired,120.0,Success
+Northrop,"SLC-576E, Vandenberg SFB, California, USA","Fri Mar 04, 2011 10:09 UTC",Active,45.0,Failure
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Feb 26, 2011 03:07 UTC",Active,25.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Feb 24, 2011 21:53 UTC",Retired,450.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Feb 16, 2011 21:51 UTC",Retired,0,Success
+Northrop,"SLC-8, Vandenberg SFB, California, USA","Sun Feb 06, 2011 12:26 UTC",Active,40.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Feb 01, 2011 14:00 UTC",Retired,13.0,Partial Failure
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 28, 2011 01:31 UTC",Retired,20.0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Jan 22, 2011 05:37 UTC",Retired,112.5,Success
+ULA,"SLC-6, Vandenberg SFB, California, USA","Thu Jan 20, 2011 21:10 UTC",Active,350.0,Success
+Roscosmos,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Thu Jan 20, 2011 12:29 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 29, 2010 21:27 UTC",Active,200.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Dec 26, 2010 21:50 UTC",Active,65.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sat Dec 25, 2010 10:34 UTC",Retired,47.0,Failure
+CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Dec 17, 2010 20:20 UTC",Active,69.7,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Dec 15, 2010 19:09 UTC",Retired,0,Success
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Dec 08, 2010 15:43 UTC",Retired,59.5,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sun Dec 05, 2010 10:25 UTC",Active,65.0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Nov 26, 2010 18:39 UTC",Active,200.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Nov 24, 2010 16:09 UTC",Active,69.7,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sun Nov 21, 2010 22:58 UTC",Active,350.0,Success
+Northrop,"LP-1, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Nov 20, 2010 01:25 UTC",Active,46.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Nov 14, 2010 17:29 UTC",Active,65.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Sat Nov 06, 2010 02:20 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Nov 04, 2010 18:37 UTC",Active,64.68,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Nov 02, 2010 00:58 UTC",Active,23.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 31, 2010 16:26 UTC",Retired,20.14,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 28, 2010 21:51 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Oct 27, 2010 15:11 UTC",Retired,20.0,Success
+Starsem,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Oct 19, 2010 17:10 UTC",Active,23.0,Success
+ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Oct 14, 2010 18:53 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 07, 2010 23:10 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Oct 06, 2010 00:49 UTC",Active,64.68,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Oct 01, 2010 10:59 UTC",Retired,20.14,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Thu Sep 30, 2010 17:01 UTC",Retired,0,Success
+Northrop,"SLC-8, Vandenberg SFB, California, USA","Sun Sep 26, 2010 04:41 UTC",Active,46.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Sep 22, 2010 02:42 UTC",Active,29.75,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Tue Sep 21, 2010 04:03 UTC",Retired,120.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Sep 11, 2010 11:17 UTC",Active,90.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Sep 10, 2010 10:22 UTC",Retired,20.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 08, 2010 03:30 UTC",Retired,13.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat Sep 04, 2010 16:14 UTC",Active,29.15,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Sep 02, 2010 00:53 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Aug 24, 2010 07:10 UTC",Active,29.75,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Aug 14, 2010 11:07 UTC",Active,140.0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Aug 09, 2010 22:49 UTC",Active,64.68,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Aug 04, 2010 20:59 UTC",Active,200.0,Success
+CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Jul 31, 2010 21:30 UTC",Active,69.7,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 12, 2010 03:52 UTC",Active,21.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Jul 10, 2010 18:40 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jun 30, 2010 15:35 UTC",Retired,20.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Jun 26, 2010 21:41 UTC",Active,200.0,Success
+IAI,"Pad 1, Palmachim Airbase, Israel","Tue Jun 22, 2010 19:00 UTC",Active,0,Success
+Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Mon Jun 21, 2010 02:14 UTC",Retired,29.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jun 15, 2010 21:35 UTC",Retired,0,Success
+Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Tue Jun 15, 2010 14:42 UTC",Retired,29.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Jun 15, 2010 01:39 UTC",Active,29.75,Success
+KARI,"LC-1, Naro Space Center, South Korea","Thu Jun 10, 2010 08:01 UTC",Retired,0,Failure
+SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Fri Jun 04, 2010 18:45 UTC",Retired,59.5,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jun 03, 2010 22:00 UTC",Active,65.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Jun 02, 2010 15:53 UTC",Retired,20.14,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Jun 02, 2010 01:59 UTC",Retired,13.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri May 28, 2010 03:00 UTC",Retired,164.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri May 21, 2010 22:01 UTC",Active,200.0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu May 20, 2010 21:58 UTC",Active,90.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 14, 2010 18:20 UTC",Retired,450.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 28, 2010 17:15 UTC",Retired,20.0,Success
+VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Apr 27, 2010 01:05 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Apr 24, 2010 11:18 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Apr 22, 2010 23:52 UTC",Retired,120.0,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Fri Apr 16, 2010 15:00 UTC",Retired,20.0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 15, 2010 10:57 UTC",Active,47.0,Failure
+Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Thu Apr 08, 2010 13:57 UTC",Retired,29.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Apr 05, 2010 10:21 UTC",Retired,450.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 02, 2010 04:04 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Mar 20, 2010 18:26 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Mar 05, 2010 04:55 UTC",Active,64.68,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Thu Mar 04, 2010 23:57 UTC",Retired,164.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Mar 01, 2010 21:19 UTC",Active,65.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Feb 12, 2010 00:39 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Feb 11, 2010 15:23 UTC",Active,109.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Feb 08, 2010 09:14 UTC",Retired,450.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 03, 2010 03:45 UTC",Retired,20.0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Jan 28, 2010 00:17 UTC",Active,65.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Sat Jan 16, 2010 16:12 UTC",Retired,20.14,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Dec 29, 2009 00:21 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Dec 20, 2009 21:52 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Dec 18, 2009 16:26 UTC",Retired,0,Success
+CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Dec 15, 2009 02:31 UTC",Active,64.68,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Mon Dec 14, 2009 14:09 UTC",Retired,0,Success
+Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Dec 14, 2009 10:38 UTC",Active,65.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 09, 2009 08:42 UTC",Active,29.75,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sun Dec 06, 2009 01:47 UTC",Retired,0,Success
+Land Launch,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Mon Nov 30, 2009 21:00 UTC",Retired,0,Success
+MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Nov 28, 2009 01:21 UTC",Active,90.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Nov 24, 2009 14:19 UTC",Active,65.0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Mon Nov 23, 2009 06:55 UTC",Retired,130.0,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Fri Nov 20, 2009 10:43 UTC",Retired,20.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Nov 16, 2009 19:28 UTC",Retired,450.0,Success
+CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Nov 12, 2009 02:45 UTC",Active,30.8,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Nov 10, 2009 14:22 UTC",Retired,20.0,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Nov 02, 2009 01:50 UTC",Retired,13.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 29, 2009 20:00 UTC",Active,200.0,Success
+NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Oct 28, 2009 15:30 UTC",Retired,450.0,Success
+ULA,"SLC-3E, Vandenberg SFB, California, USA","Sun Oct 18, 2009 16:12 UTC",Active,109.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 15, 2009 01:14 UTC",Retired,20.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Thu Oct 08, 2009 18:51 UTC",Retired,0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 01, 2009 21:59 UTC",Active,200.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 30, 2009 07:14 UTC",Retired,0,Success
+ULA,"SLC-17B, Cape Canaveral SFS, Florida, USA","Fri Sep 25, 2009 12:20 UTC",Retired,0,Success
+ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Sep 23, 2009 06:21 UTC",Active,21.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Sep 17, 2009 19:19 UTC",Active,65.0,Success
+Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Sep 17, 2009 15:55 UTC",Active,25.0,Success
+MHI,"LA-Y2, Tanegashima Space Center, Japan","Thu Sep 10, 2009 17:01 UTC",Retired,112.5,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Tue Sep 08, 2009 21:35 UTC",Active,109.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Aug 31, 2009 09:28 UTC",Retired,0,Partial Failure
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Aug 29, 2009 03:59 UTC",Retired,450.0,Success
+KARI,"LC-1, Naro Space Center, South Korea","Tue Aug 25, 2009 08:00 UTC",Retired,0,Failure
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Aug 21, 2009 22:09 UTC",Active,200.0,Success
+ULA,"SLC-17A, Cape Canaveral SFS, Florida, USA","Mon Aug 17, 2009 10:35 UTC",Retired,0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Aug 11, 2009 19:47 UTC",Active,65.0,Success
+Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Wed Jul 29, 2009 18:46 UTC",Retired,29.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 24, 2009 10:56 UTC",Retired,20.0,Success
+VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Jul 21, 2009 03:57 UTC",Retired,0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 15, 2009 22:03 UTC",Retired,450.0,Success
+SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands","Tue Jul 14, 2009 03:36 UTC",Retired,7.0,Success
+VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Jul 06, 2009 01:26 UTC",Retired,13.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jul 01, 2009 17:52 UTC",Active,200.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Jun 30, 2009 19:09 UTC",Active,65.0,Success
+ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Sat Jun 27, 2009 22:51 UTC",Retired,164.0,Success
+Land Launch,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Sun Jun 21, 2009 21:50 UTC",Retired,0,Success
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Thu Jun 18, 2009 21:32 UTC",Active,109.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed May 27, 2009 10:34 UTC",Retired,0,Success
+VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu May 21, 2009 21:53 UTC",Active,23.0,Partial Failure
+Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Tue May 19, 2009 23:55 UTC",Active,40.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat May 16, 2009 00:57 UTC",Active,65.0,Success
+Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu May 14, 2009 13:12 UTC",Active,200.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 11, 2009 18:01 UTC",Retired,450.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu May 07, 2009 18:37 UTC",Retired,20.0,Success
+ULA,"SLC-2W, Vandenberg SFB, California, USA","Tue May 05, 2009 20:24 UTC",Retired,0,Success
+VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Wed Apr 29, 2009 16:58 UTC",Retired,20.0,Success
+CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Apr 22, 2009 02:55 UTC",Active,30.8,Success
+Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean","Mon Apr 20, 2009 08:15 UTC",Retired,0,Success
+ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 20, 2009 01:15 UTC",Active,21.0,Success
+CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Apr 14, 2009 16:16 UTC",Retired,20.14,Success
+KCST,"Pad 1, Tonghae Satellite Launching Ground, North Korea","Sun Apr 05, 2009 02:30 UTC",Retired,0,Failure
+ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sat Apr 04, 2009 00:31 UTC",Active,123.0,Success
+ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Apr 03, 2009 16:24 UTC",Active,65.0,Success
+Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Mar 26, 2009 11:49 UTC",Retired,0,Success
+ULA,"SLC-17A, Cape Canaveral SFS, Florida, USA","Tue Mar 24, 2009 08:34 UTC",Retired,0,Success
+Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Mar 17, 2009 14:21 UTC",Retired,13.0,Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Mar 15, 2009 23:43 UTC",Retired,450.0,Success
